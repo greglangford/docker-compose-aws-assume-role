@@ -1,5 +1,3 @@
-# docker-compose-aws-assume-role
-
 ## Getting started
 Create a .awsenv file in the directory using the below as an example
 ```
